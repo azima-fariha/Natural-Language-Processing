@@ -1,1 +1,1 @@
-# Natural Language Processing- Word Sense Disambiguation with Lesk Algorithm
+# Natural Language Processing- Word Sense Disambiguation with NLTK
